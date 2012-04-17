@@ -1,2 +1,2 @@
-http://sbpkb2.sbols.org
 http://sbpkb.sbolstandard.org/openrdf-sesame/repositories/SBPkb
+http://sbpkb2.sbols.org

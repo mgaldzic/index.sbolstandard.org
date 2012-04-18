@@ -4,6 +4,8 @@ Access it at this URL: http://index.sbolstandard.org/syndex.txt
 
 Request to have your node added
 -------------------------------
+To get your node added please use issue a 'Pull Request' by following the directions below.
+
 1. 'Fork' in the upper right of the index.sbolstandard.org repo.
    * Follow instructions in the pop-ups to create your fork (eg pick your github username). 
 3. Clone the your forked version of index.sbolstandard.org 
